@@ -1,4 +1,4 @@
-Viral Topic Spread
+#Viral Topic Spread
 Overview
 The Viral Topic Spread project is a simulation and analysis tool designed to model the spread of viral topics across social networks, inspired by epidemiological models like SIR (Susceptible-Infected-Recovered). This project aims to help researchers, data scientists, and social media analysts understand how information, trends, or memes propagate through platforms like X, Reddit, or other networks. It provides a flexible framework to simulate topic virality, analyze network dynamics, and visualize the spread of information over time.
 The project is implemented in Python, leveraging libraries such as NetworkX for graph-based modeling, Matplotlib for visualization, and NumPy for numerical computations. It is designed to be modular, allowing users to customize parameters like transmission rates, network structures, and recovery rates to simulate various scenarios.
